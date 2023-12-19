@@ -1,1 +1,1 @@
-<img src="https://github.com/iwanbs/UI--Travels/blob/main/Sign%20In.jpeg](https://github.com/iwanbs/Herbal-App-UI-UX/blob/main/uiux_apk.PNG)https://github.com/iwanbs/Herbal-App-UI-UX/blob/main/uiux_apk.PNG" width="200" height="400" />
+<img src="https://github.com/iwanbs/Herbal-App-UI-UX/blob/main/uiux_apk.PNG" width="auto" height="auto" />
